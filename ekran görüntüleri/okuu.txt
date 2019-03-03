@@ -1,0 +1,15 @@
+c# ile yazýlanlar twitterdan veri çekmek için kullanýlan programýn ssleri
+twitterapi ve gettweets kýsýmlarý arkaplanda yapýlan konfigürasyon adýmlarýný içeriyorken 
+basitveri olan kýsým kullanýcýya görünen kýsým yani(kelime adý,sayýsý vs ) belirtilen yer
+twitterçekme ss lerinde ise örnek kelimeye göre çekilen tweetlerin çýktýsý var
+
+hamkelimeler sslerinde depresip içerik barýndan 50 kelime bulunuyor biz c# ile yazýlan programdan bu kelimelre göre veri çektik
+
+veritabaný ss inde çekilen twitlerden görüntü var
+
+olumlu kelimeler ve olumusuz kelimeler içinde tüm twitterlerdeki her kelime ile karþýlaþtýrma yapmak için(duygu analizi için)
+kelimeler var(olumlu kelime sayýsý :529--olumsuz kelime sayýsý : 740)
+
+sonuçprogram ss lerinde ise yapýlan asýl program var veritabanýna atýlan tweetleri alýp excelde bulunan olumlu ve olumsuz kelimeler ile tek tek
+kýyaslýyor ve matematiksel bir skor çýkarýyor skor ne kadar yüksek ise(+) okadar depresyondan uzak ne kadar düþük ise(-) depresif içerik anlamý
+taþýyor.

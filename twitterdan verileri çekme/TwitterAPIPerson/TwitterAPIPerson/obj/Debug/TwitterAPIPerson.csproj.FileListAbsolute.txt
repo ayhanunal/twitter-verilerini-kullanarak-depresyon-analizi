@@ -1,0 +1,5 @@
+C:\Users\Ayhan\Desktop\programlama çalışma\c#\Proje 1\TwitterAPIPerson\TwitterAPIPerson\bin\Debug\TwitterAPIPerson.dll
+C:\Users\Ayhan\Desktop\programlama çalışma\c#\Proje 1\TwitterAPIPerson\TwitterAPIPerson\bin\Debug\TwitterAPIPerson.pdb
+C:\Users\Ayhan\Desktop\programlama çalışma\c#\Proje 1\TwitterAPIPerson\TwitterAPIPerson\obj\Debug\TwitterAPIPerson.csprojResolveAssemblyReference.cache
+C:\Users\Ayhan\Desktop\programlama çalışma\c#\Proje 1\TwitterAPIPerson\TwitterAPIPerson\obj\Debug\TwitterAPIPerson.dll
+C:\Users\Ayhan\Desktop\programlama çalışma\c#\Proje 1\TwitterAPIPerson\TwitterAPIPerson\obj\Debug\TwitterAPIPerson.pdb

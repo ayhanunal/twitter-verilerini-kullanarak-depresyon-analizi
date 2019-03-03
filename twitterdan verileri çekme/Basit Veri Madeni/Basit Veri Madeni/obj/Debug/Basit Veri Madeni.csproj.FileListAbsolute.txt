@@ -1,0 +1,30 @@
+C:\Users\Ayhan\Desktop\programlama çalışma\c#\Proje 1\Basit Veri Madeni\Basit Veri Madeni\bin\Debug\Basit Veri Madeni.exe.config
+C:\Users\Ayhan\Desktop\programlama çalışma\c#\Proje 1\Basit Veri Madeni\Basit Veri Madeni\bin\Debug\Basit Veri Madeni.exe
+C:\Users\Ayhan\Desktop\programlama çalışma\c#\Proje 1\Basit Veri Madeni\Basit Veri Madeni\bin\Debug\Basit Veri Madeni.pdb
+C:\Users\Ayhan\Desktop\programlama çalışma\c#\Proje 1\Basit Veri Madeni\Basit Veri Madeni\bin\Debug\TwitterAPI.dll
+C:\Users\Ayhan\Desktop\programlama çalışma\c#\Proje 1\Basit Veri Madeni\Basit Veri Madeni\bin\Debug\TwitterAPIPerson.dll
+C:\Users\Ayhan\Desktop\programlama çalışma\c#\Proje 1\Basit Veri Madeni\Basit Veri Madeni\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Ayhan\Desktop\programlama çalışma\c#\Proje 1\Basit Veri Madeni\Basit Veri Madeni\bin\Debug\TwitterAPI.pdb
+C:\Users\Ayhan\Desktop\programlama çalışma\c#\Proje 1\Basit Veri Madeni\Basit Veri Madeni\bin\Debug\TwitterAPIPerson.pdb
+C:\Users\Ayhan\Desktop\programlama çalışma\c#\Proje 1\Basit Veri Madeni\Basit Veri Madeni\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Ayhan\Desktop\programlama çalışma\c#\Proje 1\Basit Veri Madeni\Basit Veri Madeni\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Ayhan\Desktop\programlama çalışma\c#\Proje 1\Basit Veri Madeni\Basit Veri Madeni\obj\Debug\Basit Veri Madeni.csprojResolveAssemblyReference.cache
+C:\Users\Ayhan\Desktop\programlama çalışma\c#\Proje 1\Basit Veri Madeni\Basit Veri Madeni\obj\Debug\Basit Veri Madeni.exe
+C:\Users\Ayhan\Desktop\programlama çalışma\c#\Proje 1\Basit Veri Madeni\Basit Veri Madeni\obj\Debug\Basit Veri Madeni.pdb
+C:\Users\Ayhan\Desktop\programlama calisma\c#\Proje 1\Basit Veri Madeni\Basit Veri Madeni\bin\Debug\Basit Veri Madeni.exe.config
+C:\Users\Ayhan\Desktop\programlama calisma\c#\Proje 1\Basit Veri Madeni\Basit Veri Madeni\bin\Debug\Basit Veri Madeni.exe
+C:\Users\Ayhan\Desktop\programlama calisma\c#\Proje 1\Basit Veri Madeni\Basit Veri Madeni\bin\Debug\Basit Veri Madeni.pdb
+C:\Users\Ayhan\Desktop\programlama calisma\c#\Proje 1\Basit Veri Madeni\Basit Veri Madeni\bin\Debug\TwitterAPI.dll
+C:\Users\Ayhan\Desktop\programlama calisma\c#\Proje 1\Basit Veri Madeni\Basit Veri Madeni\bin\Debug\TwitterAPIPerson.dll
+C:\Users\Ayhan\Desktop\programlama calisma\c#\Proje 1\Basit Veri Madeni\Basit Veri Madeni\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Ayhan\Desktop\programlama calisma\c#\Proje 1\Basit Veri Madeni\Basit Veri Madeni\bin\Debug\TwitterAPI.pdb
+C:\Users\Ayhan\Desktop\programlama calisma\c#\Proje 1\Basit Veri Madeni\Basit Veri Madeni\bin\Debug\TwitterAPIPerson.pdb
+C:\Users\Ayhan\Desktop\programlama calisma\c#\Proje 1\Basit Veri Madeni\Basit Veri Madeni\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Ayhan\Desktop\programlama calisma\c#\Proje 1\Basit Veri Madeni\Basit Veri Madeni\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Ayhan\Desktop\programlama calisma\c#\Proje 1\Basit Veri Madeni\Basit Veri Madeni\obj\Debug\Basit Veri Madeni.csprojResolveAssemblyReference.cache
+C:\Users\Ayhan\Desktop\programlama calisma\c#\Proje 1\Basit Veri Madeni\Basit Veri Madeni\obj\Debug\Basit Veri Madeni.exe
+C:\Users\Ayhan\Desktop\programlama calisma\c#\Proje 1\Basit Veri Madeni\Basit Veri Madeni\obj\Debug\Basit Veri Madeni.pdb
+C:\Users\Ayhan\Desktop\programlama calisma\c#\Proje 1\Basit Veri Madeni\Basit Veri Madeni\bin\Debug\Google.Protobuf.dll
+C:\Users\Ayhan\Desktop\programlama calisma\c#\Proje 1\Basit Veri Madeni\Basit Veri Madeni\bin\Debug\MySql.Data.dll
+C:\Users\Ayhan\Desktop\programlama calisma\c#\Proje 1\Basit Veri Madeni\Basit Veri Madeni\bin\Debug\Google.Protobuf.xml
+C:\Users\Ayhan\Desktop\programlama calisma\c#\Proje 1\Basit Veri Madeni\Basit Veri Madeni\bin\Debug\MySql.Data.xml
